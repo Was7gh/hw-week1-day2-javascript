@@ -1,0 +1,1 @@
+# hw-week1-day2-javascript
