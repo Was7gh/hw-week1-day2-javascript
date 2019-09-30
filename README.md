@@ -105,17 +105,6 @@ Write a conditional statement that...
 ```js
 // your answer here
 ```
-
-#### BONUS
-9.  Research a [loop](https://javascript.info/while-for) so that your condition runs on every number from 0 to 100
-```js
-// your answer here
-```
-10.  Research a [function](https://javascript.info/function-basics) so that your condition runs on every number from 0 to whatever number is passed into the function
-```js
-// your answer here
-
-```
 ## Homework Submission
 https://github.com/SEI2-jeddah/General/tree/master/homework_submission
 
