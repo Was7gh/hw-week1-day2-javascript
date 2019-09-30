@@ -114,7 +114,10 @@ Write a conditional statement that...
 10.  Research a [function](https://javascript.info/function-basics) so that your condition runs on every number from 0 to whatever number is passed into the function
 ```js
 // your answer here
+
 ```
+## Homework Submission
+https://github.com/SEI2-jeddah/General/tree/master/homework_submission
 
 # Additional Resources
 
